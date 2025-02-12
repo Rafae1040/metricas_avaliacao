@@ -1,6 +1,6 @@
 # 📊 Projeto: Cálculo de Métricas de Classificação com Machine Learning
 
-##🎯 Objetivo
+## 🎯 Objetivo
 
 Este projeto tem como objetivo calcular e visualizar as principais métricas utilizadas para avaliar modelos de classificação em Machine Learning. Utilizamos um modelo de Árvore de Decisão para classificar um conjunto de dados sintético e, em seguida, geramos métricas como:
 
