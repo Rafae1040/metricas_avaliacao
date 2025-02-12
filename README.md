@@ -47,7 +47,7 @@ Verdadeiros Negativos (VN): Previsões corretas para a classe negativa.
 
 Quanto mais acertos houver nas diagonais principais, melhor o desempenho do modelo.
 
-```python
+``` python
 # Visualizar a matriz de confusão
 tick_labels = ["Classe Negativa", "Classe Positiva"]
 sns.heatmap(matriz_confusao, annot=True, fmt="d", cmap="Blues", xticklabels=tick_labels, yticklabels=tick_labels)
