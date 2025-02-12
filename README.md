@@ -76,3 +76,15 @@ Especificidade: Capacidade do modelo de identificar corretamente os casos negati
 F-score: Média harmônica entre precisão e sensibilidade.
 
 Valores mais altos indicam um modelo mais eficiente e confiável.
+
+``` python
+# Gráfico de barras para as métricas
+plt.figure(figsize=(8, 5))
+sns.barplot(x=df_metricas.index, y=df_metricas["Valor"], palette="viridis")
+plt.ylim(0, 1)
+plt.ylabel("Valor")
+plt.title("Métricas de Avaliação do Modelo")
+plt.xticks(rotation=45)
+plt.show()
+```
+
