@@ -57,7 +57,7 @@ plt.title("Matriz de Confusão")
 plt.show()
 ```
 
-![Matriz Confusao](imagens/Matriz.Confusão.png)
+![Matriz Confusao](https://github.com/Rafae1040/metricas_avaliacao/blob/main/Matriz%20Confusao.png)
 
 
 ## 📌 Gráfico de Métricas
