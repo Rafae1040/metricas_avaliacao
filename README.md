@@ -88,3 +88,4 @@ plt.xticks(rotation=45)
 plt.show()
 ```
 
+![Metricas de Avaliacao do Modelo](https://github.com/Rafae1040/metricas_avaliacao/blob/main/Metricas%20de%20Avaliacao%20do%20Modelo.png)
